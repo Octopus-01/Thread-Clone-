@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275221593248",
+    "project_id": "thread-yt-e3f43",
+    "storage_bucket": "thread-yt-e3f43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275221593248:android:d8a715de1e2cb2a6ca1dc5",
+        "android_client_info": {
+          "package_name": "com.learn.threadyt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcRrreZc2YjHK20eX-tPQe1CyEfHUQwAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
